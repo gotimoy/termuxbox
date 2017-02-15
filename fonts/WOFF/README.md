@@ -1,3 +1,3 @@
 ## 
-web open font format fonts (woff)
+Web open font format fonts (woff)
 ##
