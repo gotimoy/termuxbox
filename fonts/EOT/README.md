@@ -1,3 +1,3 @@
 ## 
-Embedded opentype fonts 
+Embedded opentype fonts (eot) 
 ##
